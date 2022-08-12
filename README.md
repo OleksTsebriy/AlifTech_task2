@@ -13,7 +13,7 @@ Dataset exploration jupyter notebook file **aliftech_test_task.ipnb** and datase
 ### Model description
 
 Project uses supervised ML model - DesigionTreeClassifier. Borrower's data and other relevant information about credit is used to predict probability of non-opening credit account.
-**models/** directory contains **model**, **one_hot_encoder** and **encoded_colnames** files - fitted model, fitted one-hot encoder and on-hot column names, saved from jupyter notebook. 
+**models/** directory contains **model**, **one_hot_encoder** and **encoded_colnames** files - fitted model, fitted one-hot encoder and one-hot column names, saved from jupyter notebook. 
 
 ### Data preprocessing
 
